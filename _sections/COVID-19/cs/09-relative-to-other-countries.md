@@ -1,8 +1,4 @@
-{:.only_toc}
-# Regulace a zákony
-
-{:.no_toc}
-# Regulace pracovních podmínek a zdravotnické péče ve spojených státech zhorší průběh epidemie
+## Regulace pracovních podmínek a zdravotnické péče ve spojených státech zhorší průběh epidemie
 
 V porovnání s ostatními zeměmi jsou regulace ve spojených státech nastaveny tak, že zastavit a zpomalit epidemii bude daleko obtížnější:
  - Neexistence garantované [nemocenské](https://www.worldpolicycenter.org/policies/for-how-long-are-workers-guaranteed-paid-sick-leave)
@@ -14,7 +10,7 @@ V porovnání s ostatními zeměmi jsou regulace ve spojených státech nastaven
 
 Neexistence sociálního a zdravotního zabezpečení ve spojených státech komplikuje zavádění protiepidemických opatření a "narovnání křivky" v porovnání s jinými zeměmi. Nové zákony, které byly uvedeny v platnost v pátek některé z těchto problému řeší - zákony poskytují rozšířenou podporu v nezaměstnanosti, testování zdarma a rozšiřují rozpočet pro Medicaid a Food assistance programy. Více o těchto nových zákonech si můžete přečíst v [New York Times](https://www.nytimes.com/2020/03/13/us/politics/trump-coronavirus-relief-congress.html), [CNN](https://www.cnn.com/2020/03/13/politics/coronavirus-relief-congress/index.html) a na dalších zpravodajských službách. Plné znění zákona je k dispozici [zde](https://www.cnn.com/2020/03/13/politics/read-bill-text-families-first-coronavirus-response-act/index.html).
 
-# Globální sledování a komunikace
+## Globální sledování a komunikace
 
 Lékařský personál je v první linii při boji s touto novou nemocí. Kvůli nedostatku ochranných prostředků (masky atp) jsou vystaveni riziku nákazy a sami pak nemají přístup k péči, kterou potřebují. Pokud vás zajíma osobní příběh z fronty, můžete si jej přečíst [tady (Anglicky)](https://twitter.com/stuff_so/status/1236467114933813248). Případy podobné tomuto se objevují všude po světě.
 

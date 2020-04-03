@@ -1,4 +1,4 @@
-# Koronavirus není obyčejná chřipka
+## Koronavirus není obyčejná chřipka
 **Ani pokud vše dopadne dobře**
 
 Odhadovaná úmrtnost 3.5% podle WHO je průměrem přes všechny věkové kategorie. Z analýz vyplývá, že pravděpodobně jen malé množství případů probíhá zcela bez příznaků. Riziko je významně vyšší pro jedince nad 60 let a pro osoby s chronickými zdravotními problémy.
