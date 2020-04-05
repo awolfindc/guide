@@ -13,7 +13,7 @@ Innanzitutto, ti ringraziamo! La realizzazione di questo sito è stata possibile
 
 **Per contribuire con contenuti, revisioni e traduzioni** clicca [qui](https://github.com/flattenthecurve/guide/blob/master/CONTRIBUTING.md)
 
-Non sentirti in obbligo di contribuire--l'accesso e la condivisione di queste informazioni sono gratuiti.
+Non sentirti in obbligo di contribuire&mdash;l'accesso e la condivisione di queste informazioni sono gratuiti.
 
 Ti garantiamo che l'intero importo raccolto verrà reinvestito nella gestione, nella costruzione e nella manutenzione del sito.
 
