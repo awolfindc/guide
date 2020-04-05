@@ -1,7 +1,7 @@
 # Guiding Principles
 We ask all contributors to please embrace the following principles while participating and when relevant:
 
-1. Be science-based - seek always primary sources
+1. Be science-based&mdash;seek always primary sources
 1. Only provide information that can be acted upon
 1. Avoid politics, opinions, and personal comments
 1. Keep content clear and accessible
@@ -15,7 +15,7 @@ These guiding principles, as well as [the project's code of conduct](https://git
 -----
 
 ## How to contribute
-This content is work in progress, please check back often as it will likely change. If you want to help, we currently need these roles - each with instructions describing how to make contributions such that updates can flow as efficiently as possible:
+This content is work in progress, please check back often as it will likely change. If you want to help, we currently need these roles&mdash;each with instructions describing how to make contributions such that updates can flow as efficiently as possible:
 
  - [English Content Contributors](#english-content-contributors)
    - [How to suggest an update or change](#how-to-suggest-an-update-or-change)
@@ -33,13 +33,13 @@ We need to keep the information updated with recent developments and recommendat
 
 #### How to suggest an update or change
 
-1. If you have never used Github and are not comfortable trying to do the update yourself, please go [here](https://github.com/flattenthecurve/guide/issues/new/choose) and fiil out an issue with your content change request or submission: 
-1. If you have used Github before and know what Markdown is, you can make the change yourself. 
+1. If you have never used Github and are not comfortable trying to do the update yourself, please go [here](https://github.com/flattenthecurve/guide/issues/new/choose) and fill out an issue with your content change request or submission:
+1. If you have used Github before and know what Markdown is, you can make the change yourself.
 1. Identify a section that needs to be added or modified.
-1. Edit the content trying as best you can to match style and tone of the language used in that section - see instructions on how to edit content [here](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-another-users-repository).
+1. Edit the content trying as best you can to match style and tone of the language used in that section&mdash;see instructions on how to edit content [here](https://help.github.com/en/github/managing-files-in-a-repository/editing-files-in-another-users-repository).
 1. Before submitting a change request, please [check the open pull requests](https://github.com/flattenthecurve/guide/pulls) to make sure that the same request has not yet been completed by someone else
 1. Include a comment with a link to a trusted source or a justification for the change request
-1. Thanks for the contribution - give yourself a celebratory pat on the back!
+1. Thanks for the contribution&mdash;give yourself a celebratory pat on the back!
 
 
 ![](https://media.giphy.com/media/3o7btW9s53TyntUsP6/giphy.gif)
@@ -50,7 +50,7 @@ Each request will be reviewed by someone on the scientific reviewers team. The r
 -----
 
 ### Scientific Reviewers
-All languages are needed here, but english will be needed for coordination. Domain expertise is key: public health, MD, virology, immunology, epidemiology, etc. 
+All languages are needed here, but english will be needed for coordination. Domain expertise is key: public health, MD, virology, immunology, epidemiology, etc.
 
 Your job here is to review updates and changes made by the community and confirm they are accurate and appropriate. If you have 30 minutes per day or more to help with this, please fill out our [onboarding form](https://forms.gle/aPtMHFstGb5Dpod99)
 

@@ -16,7 +16,7 @@ someone to help manage the work as the site grows.
 
 **For contributing with content, reviews and translations** please go [here](https://github.com/flattenthecurve/guide/blob/master/CONTRIBUTING.md)
 
-Don't feel obligated to contribute--this information is free to access and share.
+Don't feel obligated to contribute&mdash;this information is free to access and share.
 
 Please be assured that all money collected will go back toward running, building, and maintaining this site.
 
